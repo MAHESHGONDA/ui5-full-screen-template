@@ -1,0 +1,6 @@
+<mvc:View controllerName="com.demo.fullscreen.controller.NotFound" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<Page title="Not Found Page" showNavButton="true" navButtonPress="onBack">
+		<Text text="i am Notfound Page Content"></Text>
+	</Page>
+</mvc:View>
